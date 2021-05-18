@@ -2,8 +2,8 @@
 /**
  * Write a description of class test here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Juan Coetzee
+ * @version 19/05/21
  */
 public class test
 {
