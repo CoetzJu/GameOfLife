@@ -6,4 +6,6 @@ comment2.params=x\ y
 comment2.target=int\ countit(int,\ int)
 comment3.params=
 comment3.target=void\ toggle()
-numComments=4
+comment4.params=
+comment4.target=void\ printgrid()
+numComments=5
