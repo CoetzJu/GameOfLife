@@ -4,4 +4,6 @@ comment1.params=
 comment1.target=game()
 comment2.params=x\ y
 comment2.target=int\ countit(int,\ int)
-numComments=3
+comment3.params=
+comment3.target=void\ toggle()
+numComments=4
